@@ -1,6 +1,6 @@
 ### Hi there, I'm [Victor][website] 👋
 
-- 🌱 I’m currently back-end developer 🤣
+- 🌱 I’m Software Engineer
 - 👯 I’m looking to collaborate with other programmers
 
 ### Connect with me:
