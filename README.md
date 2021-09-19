@@ -1,6 +1,5 @@
 ### Hi there, I'm [Victor][website] 👋
 
-- :computer: I’m back-end developer!
 
 ### Connect with me:
 
