@@ -1,7 +1,5 @@
 ### Hi there, I'm [Victor][website] 👋
 
-- 🌱 I’m Software Engineer
-- 👯 I’m looking to collaborate with other programmers
 
 ### Connect with me:
 
