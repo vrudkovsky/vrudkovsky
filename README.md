@@ -1,8 +1,7 @@
 ### Hi there, I'm [Victor][website] 👋
 
-- 🔭 I’m currently working on a [Nobul][nobul] - the future of the real estate!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other programmers
 
 ### Connect with me:
 
