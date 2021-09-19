@@ -1,4 +1,4 @@
-### Hi there, I'm [Victor][website] 👋
+### Hi there, I'm Victor 👋
 
 <img align="left" alt="Victor's Github Stats" src="https://github-readme-stats-ebon-gamma.vercel.app/api?username=vrudkovsky&show_icons=true&count_private=true&hide_border=true" />
 
