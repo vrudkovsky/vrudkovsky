@@ -1,14 +1,5 @@
 ### Hi there, I'm [Victor][website] 👋
 
-
-### Connect with me:
-
-[<img align="left" alt="rudkovsky.com" height="25px" src="https://img.shields.io/website?color=%23424242&down_color=white&down_message=oleksiikachan.com&label=%20&style=for-the-badge&up_color=white&up_message=rudkovsky.com&url=https%3A%2F%2Frudkovsky.com" />][website]
-[<img align="left" alt="Victor Rudkovsky | LinkedIn" height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitesvg" />][linkedin]
-
-<br />
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
