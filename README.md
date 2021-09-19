@@ -1,6 +1,6 @@
 ### Hi there, I'm [Victor][website] 👋
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently back-end developer 🤣
 - 👯 I’m looking to collaborate with other programmers
 
 ### Connect with me:
